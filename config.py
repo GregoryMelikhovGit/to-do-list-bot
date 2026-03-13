@@ -1,1 +1,2 @@
 DATABASE = "tasks.db"
+TOKEN = ""
